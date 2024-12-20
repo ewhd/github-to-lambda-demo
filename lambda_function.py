@@ -20,4 +20,4 @@ def lambda_handler(event, context):
         print(response.json())
     else:
         print(f"Request failed with status code: {response.status_code}")
-    print('Done x1.2')
+    print('Done x1.3')
